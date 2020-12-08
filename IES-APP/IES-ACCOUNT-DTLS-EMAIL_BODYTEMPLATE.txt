@@ -1,0 +1,16 @@
+Hi {FNAME}, {LNAME}
+<br/>
+Welcome To IES Family Your Appointed As a {ROLE}<br/>
+<br/>
+Your Account Details are <br/>
+<br/>
+User Name : {EMAIL}<br/>
+<br/>
+Password  : {PWD}<br/>
+<br/>
+Application Url : Http:localhost/ies/home<br/>
+<br/>
+Thanks & Regards,<br/>
+<br/>
+IES Team.<br/>
+
